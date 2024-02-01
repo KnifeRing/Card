@@ -9,8 +9,7 @@
 
 <div align="center">
 
-  ![TG Badge](/img/tg.png)
-  ![VK Badge](/img/vk.png)
+ <img src="./img/vk.png" width="200">
 
 </div>
 <br>
