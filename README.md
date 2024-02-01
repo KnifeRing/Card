@@ -4,7 +4,7 @@
 Я инженер тестировщик 
 </p>
 <p align="center"> 
-When I'm not coding find me taking photos or trying to jump out of the nearest plane.
+Когда я не занят работой, то в основном провожу время за чтением, или за одним из моих хобби.
 </p>
 
 <div align="center">
@@ -33,9 +33,9 @@ When I'm not coding find me taking photos or trying to jump out of the nearest p
 
    def currently
      {
-       studying: [ 'Network Security' ],
-       reading: [ 'Rails AntiPatterns', 'Deep Work' ],
-       tinkering: [ 'Google Pay', 'Apple Wallet', 'Pen Testing' ]
+       studying: [ 'Information systems and technologies' ],
+       reading: [ 'Кровь, пот и пиксели', 'Will.' ],
+       tinkering: [ 'Google Pay', 'Unity', '3D modeling' ]
       }
    end
  end
@@ -48,7 +48,7 @@ When I'm not coding find me taking photos or trying to jump out of the nearest p
   <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598850235/html_1_whl9rj.png" alt="html-logo">
   <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849662/javascript_eniubp.png" alt="js-logo">
   <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849661/css_jtfcoz.png" alt="css-logo">
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849660/postgresql_zsfd9p.png" alt="CSharp-logo">
+ 
 </p>
 
 
